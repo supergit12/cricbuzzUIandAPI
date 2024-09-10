@@ -1,0 +1,1 @@
+registration page title test is completed with status:PASSED
